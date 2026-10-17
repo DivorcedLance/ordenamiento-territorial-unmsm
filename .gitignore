@@ -1,0 +1,22 @@
+# Chrome profile & caches
+.chrome_profile/
+__pycache__/
+*.pyc
+
+# Heavy rasters backed up in Google Drive (exceeding GitHub file limit)
+productos_aymaraes_finales/
+copernicus_dem_tiles/
+DEM_Copernicus_30m_Mosaico.tif
+4168ad3a-2c0b-4f37-8e9f-7fbd479a933e
+Browser_images.zip
+sentinel2_bands/
+tmp_*
+
+# LaTeX auxiliary files if any
+*.aux
+*.log
+*.out
+*.toc
+*.fls
+*.fdb_latexmk
+*.synctex.gz
