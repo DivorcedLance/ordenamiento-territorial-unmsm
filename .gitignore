@@ -11,6 +11,11 @@ DEM_Copernicus_30m_Mosaico.tif
 Browser_images.zip
 sentinel2_bands/
 tmp_*
+test_*
+
+# Raster grids in climate folder > 25MB (reproducible with script)
+clima_senamhi_agosto/*.tif
+clima_senamhi_agosto/temp_maxima_agosto.geojson
 
 # LaTeX auxiliary files if any
 *.aux

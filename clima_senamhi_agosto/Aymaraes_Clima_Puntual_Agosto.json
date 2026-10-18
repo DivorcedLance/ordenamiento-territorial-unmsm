@@ -1,0 +1,65 @@
+[
+  {
+    "Distrito": "Chalhuanca (Capital Provincial)",
+    "Altitud_m": 2911,
+    "Precip_Agosto_mm": 12.5,
+    "Tmin_C": 6.0,
+    "Tmax_C": 24.0,
+    "Tmed_C": 15.0,
+    "Biotemp_C": 15.0
+  },
+  {
+    "Distrito": "Cotaruse",
+    "Altitud_m": 3368,
+    "Precip_Agosto_mm": 12.5,
+    "Tmin_C": 2.0,
+    "Tmax_C": 22.0,
+    "Tmed_C": 12.0,
+    "Biotemp_C": 12.0
+  },
+  {
+    "Distrito": "Capaya",
+    "Altitud_m": 4151,
+    "Precip_Agosto_mm": 12.5,
+    "Tmin_C": -2.0,
+    "Tmax_C": 18.0,
+    "Tmed_C": 8.0,
+    "Biotemp_C": 8.0
+  },
+  {
+    "Distrito": "Toraya",
+    "Altitud_m": 4443,
+    "Precip_Agosto_mm": 17.5,
+    "Tmin_C": -4.0,
+    "Tmax_C": 16.0,
+    "Tmed_C": 6.0,
+    "Biotemp_C": 6.0
+  },
+  {
+    "Distrito": "Soraya",
+    "Altitud_m": 3072,
+    "Precip_Agosto_mm": 12.5,
+    "Tmin_C": 6.0,
+    "Tmax_C": 22.0,
+    "Tmed_C": 14.0,
+    "Biotemp_C": 14.0
+  },
+  {
+    "Distrito": "Ihuayllo",
+    "Altitud_m": 4393,
+    "Precip_Agosto_mm": 12.5,
+    "Tmin_C": -4.0,
+    "Tmax_C": 16.0,
+    "Tmed_C": 6.0,
+    "Biotemp_C": 6.0
+  },
+  {
+    "Distrito": "Tintay",
+    "Altitud_m": 0,
+    "Precip_Agosto_mm": "N/A",
+    "Tmin_C": "N/A",
+    "Tmax_C": "N/A",
+    "Tmed_C": "N/A",
+    "Biotemp_C": "N/A"
+  }
+]
